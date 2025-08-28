@@ -12,7 +12,7 @@
 	<artifactId>base-saij-normativa-provincial</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>base-saij-normativa-provincial</name>
-	<description>Demo project for Spring Boot</description>
+	<description>REST API built on the latest update of the SAIJ (Argentine Legal Information System) "Normativa Provincial" Database, published on the datasets of https://datos.gob.ar/</description>
 	<url/>
 	<licenses>
 		<license/>
